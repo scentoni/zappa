@@ -133,7 +133,7 @@ require('zappa') ->
 
 - Migrating from an earlier version? Read the announcements ([0.2.x](http://zappajs.org/docs/0.2-peaches/announcement)/[0.3.x](http://zappajs.org/docs/0.3-gumbo/announcement)) for an overview on changes, and follow the TL;DR migration guides ([0.2.x](http://zappajs.org/docs/0.2-peaches/migration)/[0.3.x](http://zappajs.org/docs/0.3-gumbo/migration))
 
-- Deploying to heroku? Check [this blog post](http://blog.superbigtree.com/blog/2011/08/19/hosting-zappa-0-2-x-on-heroku/)
+- Deploying to heroku? Check [this blog post](http://superbigtree.tumblr.com/post/20748825617/hosting-zappa-on-heroku)
 
 ## Thanks loads
 
